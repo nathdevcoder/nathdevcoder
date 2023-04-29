@@ -1,16 +1,16 @@
+![Markdown Logo]
+(https://nathanielmorales.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnathlogo.7a4d3b99.png&w=256&q=75)
+
+
+
 ### Hi there 👋
+## I'm Nathaniel Morales
+#### A React,NextJs,Shopify Theme Web Developer
 
-<!--
-**nathcodingworld/nathcodingworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on APPIgators LLC.
+- 🌱 I’m currently learning Shopify App nad Shopify Custom Stroe front
+- 👯 I’m looking to collaborate on any project  
+- 📫 How to reach me: nathaniel.1stacc@gmail.com 
+- ⚡ Fun fact: I love Programming
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[My Portfolio](https://nathanielmorales.vercel.app "nathaniel Morales")
