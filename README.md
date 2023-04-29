@@ -1,5 +1,4 @@
-![Markdown Logo]
-(https://nathanielmorales.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnathlogo.7a4d3b99.png&w=256&q=75)
+![Markdown Logo](https://nathanielmorales.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnathlogo.7a4d3b99.png&w=256&q=75)
 
 
 
