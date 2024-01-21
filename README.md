@@ -45,4 +45,4 @@
 <hr> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathdevcoder&layout=compact&theme=vision-friendly-dark">
 <br>
-[My Portfolio](https://nathanielmorales.vercel.app/ "nathaniel Morales")
+<a href="https://nathanielmorales.vercel.app/">nathaniel Morales</a>
